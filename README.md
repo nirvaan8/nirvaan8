@@ -32,7 +32,7 @@ focus:
 currently_building:
   - FraudSys — ML-powered insurance fraud detection
   - SIEM Dashboard — Live Windows Event Log monitoring
-looking_for: SOC Analyst & SWE Internships (2025/26)
+looking_for: SOC Analyst & SWE Internships (2026/2027)
 ```
 
 ---
