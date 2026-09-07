@@ -91,6 +91,8 @@ Coordinated team resources and logistics for university technical festivals and 
 ### ◈ Reveal
 #### Autonomous AI-Driven SIEM & SOAR
 
+`ACTIVE BUILD`
+
 An experimental security operations platform for real-time alert ingestion, behavioral analysis, and automated response.
 
 - Wazuh JSON alert ingestion
@@ -106,6 +108,8 @@ An experimental security operations platform for real-time alert ingestion, beha
 
 ### ◈ Live
 #### Incident Detection Toolkit
+
+`SECURITY TOOLKIT`
 
 A toolkit for Windows event analysis, alert enrichment, webhook delivery, and incident visualization.
 
@@ -125,6 +129,8 @@ A toolkit for Windows event analysis, alert enrichment, webhook delivery, and in
 ### ◈ Mini SOC Lab
 #### SIEM & Incident Response Lab
 
+`LAB ENVIRONMENT`
+
 A virtualized security operations laboratory for monitoring, attack simulation, alerting, and investigation.
 
 - Splunk and Wazuh integration
@@ -141,6 +147,8 @@ A virtualized security operations laboratory for monitoring, attack simulation, 
 ### ◈ OpenShield
 #### DDoS Detection & Mitigation Prototype
 
+`RESEARCH PROTOTYPE`
+
 A self-hosted network security project exploring traffic monitoring, anomaly detection, and automated mitigation.
 
 - Isolation Forest and LSTM experiments
@@ -155,6 +163,12 @@ A self-hosted network security project exploring traffic monitoring, anomaly det
 </table>
 
 > **Tip:** Link each project title to its GitHub repository once the repositories are public. I left the URLs out rather than inventing repository names.
+
+<div align="center">
+
+[![View repositories](https://img.shields.io/badge/View_all_repositories-0B1F33?style=for-the-badge&logo=github&logoColor=6EE7B7)](https://github.com/nirvaan8?tab=repositories)
+
+</div>
 
 ---
 
